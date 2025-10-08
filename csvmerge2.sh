@@ -1,5 +1,5 @@
 #!/bin/sh
-# merge_csv.sh
+# mergecsv2.sh
 # Merges CSV files into one, keeping exactly one header row (from the first file).
 # macOS 15.3+ compatible. POSIX sh, no GNU-only dependencies.
 # Usage:
